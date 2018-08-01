@@ -1,0 +1,30 @@
+h1{
+  color:red;
+}
+
+
+#mad{
+  color:blue;
+  font-size: 36px;
+}
+#sad{
+  color:red;
+  font-size: 36px;
+}
+
+#happy{
+  color:green;
+  font-size: 36px;
+}
+
+#a{
+  font-size: 60px;
+  color:#FFFF00;
+}
+
+#madphoto{
+  position: relative;
+  float: right;
+  width: 100px;
+  height: 100px;
+}
